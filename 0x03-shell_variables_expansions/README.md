@@ -1,0 +1,1 @@
+Hello User,action to path,number of directories in the path,global variables,local variables,New local variable,new global variable,addition,divide and rule,breath to the power,converting a number to base 10,combinations,floats
